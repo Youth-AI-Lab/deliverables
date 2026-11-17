@@ -19,12 +19,17 @@ Ideation sheets for the workshop "exploration" activities, as ready-to-use PDFs:
 - Bias Bounty Hunt
 - BIAIS
 - Bio-Inspired Algorithms
+- Hand Signs
 - Illusions
 - Introductory AI Game · Predictive AI
 - Keep Eye on AI
 - Looks Right
+- Lya's Village
 - Machine Brain (UAB)
 - Make Cities Great Again
+- Mbot2 Navigator
+- micro:bit Game Box
+- Prototype Test (UAB)
 - Robot AI Designing (UAB)
 - The Stupid Invention
 - WikiYouthBot
